@@ -225,11 +225,7 @@ Bank-Transaction-Analytics/
 
 ## 📸 Dashboard Preview
 
-Add your Power BI dashboard screenshot here:
-
-```markdown
-![Bank Transaction Analytics Dashboard](Screenshots/Bank_Transaction_Dashboard.png)
-```
+<img width="972" height="646" alt="image" src="https://github.com/user-attachments/assets/56d30c95-b39b-40a3-956b-bd7593b89f07" />
 
 ---
 
