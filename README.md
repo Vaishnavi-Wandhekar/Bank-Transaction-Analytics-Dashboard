@@ -82,6 +82,7 @@ Key activities included:
 
 MySQL was used to analyze the transaction data and calculate important business metrics.
 
+
 ### Analysis Performed
 
 * Total credit amount
